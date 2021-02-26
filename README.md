@@ -5,7 +5,7 @@
 # MoveIt 
 <img src='favicon.png'/> 
 
-> Técnica de Pomodoro | Desenvolvimento de um **Move.it**, Utilizando Next.Js 
+> Técnica de Pomodoro | Desenvolvimento do **Move.it**, Utilizando Next.Js 
 
 ### 📄 O que foi usado:
 
