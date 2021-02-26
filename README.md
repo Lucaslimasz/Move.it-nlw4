@@ -2,7 +2,7 @@
   <img src="wallpaper.jpg" alt="MoveIt" />
 </p>
 
-# MoveIt
+<img src='/favicon.png'/># MoveIt 
 
 > Técnica de Pomodoro | Desenvolvimento de um **Move.it**, Utilizando Next.Js 
 
